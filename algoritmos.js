@@ -1,9 +1,9 @@
-let divisao = (a, b) => {
-    let q = 0;
-    let r = a;
-    while (r >= b) {
-        r -= b;
-        q++;
+let algoritmoEuclidiano = (a, b) => {
+    let resto = a % b;
+    while (resto !== 0) {
+        a = b;
+        b = resto;
+        resto = a % b;
     }
-    return {quociente: q, resto: r};
+    return b;
 };
