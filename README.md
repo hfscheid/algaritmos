@@ -5,7 +5,7 @@ Lista de algoritmos:
 
 - Capítulo 1: pag. 33 exercício 9	-feito.
 
-- Capítulo 2: pag. 51 exercício 12
+- Capítulo 2: pag. 51 exercício 12	-feito.
 
 - Capítulo 3: pag. 68 exercícios 12, 13
 
