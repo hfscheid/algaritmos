@@ -7,7 +7,7 @@ Lista de algoritmos:
 
 - Capítulo 2: pag. 51 exercício 12	-feito.
 
-- Capítulo 3: pag. 68 exercícios 12, 13
+- Capítulo 3: pag. 68 exercícios 12, 13 -feito.
 
 - Capítulo 4: pag. 86 exercício 11
 
